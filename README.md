@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ollita7/ollita7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am computer engineer, who has passion for technologies, software design and architecture. I've worked developing Node and .Net applications mainly
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Kiwi Server**](https://github.com/ollita7/kiwi): A brief description of what makes this project special.
+- [**Kiwi Server Cli**](https://github.com/ollita7/kiwi-cl): Tool to help creation of components.
+
+
+## Let's Connect! 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/guillermofernandez)
+- [Twitter](https://twitter.com/ollita7)
+
+## Dynamic Stats 🚀
+
+Check out my [GitHub stats](https://github-readme-stats.vercel.app/api?username=ollita7&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=true&theme=radical) and [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) for more details!
+
