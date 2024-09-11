@@ -10,7 +10,7 @@ I am computer engineer, who has passion for technologies, software design and ar
 
 ## Let's Connect! 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/guillermofernandez)
+- [LinkedIn](https://www.linkedin.com/in/guillermofernandezcastro)
 - [Twitter](https://twitter.com/ollita7)
 
 ## Dynamic Stats 🚀
